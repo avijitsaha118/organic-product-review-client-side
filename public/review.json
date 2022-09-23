@@ -1,0 +1,29 @@
+[
+    {
+        "_id": 1,
+        "name": "Organic Herb",
+        "Price": "200",
+        "company": "Rajshahi Herb",
+        "description": "this is very well known in the city. It is popularly knows as Rajshahi Herb.",
+        "Review": "5/4.8",
+        "img": "https://i.ibb.co/qJ23dkG/herb.jpg"
+    },
+    {
+        "_id": 2,
+        "name": "Organic Juice",
+        "Price": "100",
+        "company": "Juice Herb",
+        "description": "This is very well known in the country. It is popularly knows as Juice Herb.",
+        "Review": "5/4.7",
+        "img": "https://i.ibb.co/5MW0d3v/juice.jpg"
+    },
+    {
+        "_id": 3,
+        "name": "Organic Tea",
+        "Price": "120",
+        "company": "Green Leaf",
+        "description": "this is very well known in the city. It is popularly knows as Green fresh.",
+        "Review": "5/4.9",
+        "img": "https://i.ibb.co/12D8JRL/tea.jpg"
+    }
+]
